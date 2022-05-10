@@ -1,3 +1,3 @@
 # @stufinn/tiny
 
-[!npm (scoped)]
+[![npm (scoped)]]
