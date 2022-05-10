@@ -1,3 +1,3 @@
 # @stufinn/tiny
 
-[![npm (scoped)]]
+![npm (scoped)](https://img.shields.io/npm/v/@stufinn/tiny)
