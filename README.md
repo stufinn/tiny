@@ -1,1 +1,3 @@
-# tiny
+# @stufinn/tiny
+
+[!npm (scoped)]
